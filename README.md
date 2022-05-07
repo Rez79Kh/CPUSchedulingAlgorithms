@@ -7,11 +7,9 @@ This is a Final Project of Operating System Course
 **Input**
 <br>
 Input file should be a CSV file that in order includes : process_id , arrival_time , cpu_time1 , io_time , cpu_time2
-<br>
------------------------------------------------------------------
-<br>
+
+
 Algorithms that implemented in this project:
-<br>
 - First Come First Serve (FCFS)
 - Shortest Job First (SJF)
 - Round Robin (RR) with time quantum 5ms
